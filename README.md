@@ -1,1 +1,1 @@
-# cineVue-Movie-App
+# cineVue
